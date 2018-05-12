@@ -1,0 +1,31 @@
+_repo: New-York-Sketches_42501
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42501-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, Jesse Lynch
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '37371'
+    url: http://www.gutenberg.org/2009/agents/37371
+    wikipedia: http://en.wikipedia.org/wiki/Jesse_Lynch_Williams
+description: The water-front.--The walk up-town.--The cross streets.--Rural New York
+  city.
+gutenberg_issued: '2013-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42501'
+  lccn: 02027728
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Description and travel'
+- !lcc 'F106'
+tableOfContents: The water-front -- The walk up-town -- The cross streets -- Rural
+  New York city.
+title: New York Sketches
+url: http://www.gutenberg.org/ebooks/42501
