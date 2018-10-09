@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'New York (N.Y.) -- Description and travel'
 - !lcc 'F106'
+- GITenberg
 tableOfContents: The water-front -- The walk up-town -- The cross streets -- Rural
   New York city.
 title: New York Sketches
